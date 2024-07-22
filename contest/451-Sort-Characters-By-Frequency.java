@@ -1,31 +1,31 @@
 class Solution {
     public String frequencySort(String s) {
-        HashMap<Character, Integer> frequencyMap = new HashMap<>();
         
-        for (char c : s.toCharArray()) {
-            frequencyMap.put(c, frequencyMap.getOrDefault(c, 0) + 1);
+        char[] arr = s.toCharArray();
+        int[] freq = new int[123];
+
+        for(char ch : arr)
+        {
+            freq[ch]++;
         }
-        
-        StringBuilder sortedString = new StringBuilder();
-        
-        while (!frequencyMap.isEmpty()) {
-            int maxFrequency = Integer.MIN_VALUE;
-            char maxChar = '\\0'; 
-            
-            for (Map.Entry<Character, Integer> e : frequencyMap.entrySet()) {
-                if (e.getValue() > maxFrequency) {
-                    maxFrequency = e.getValue();
-                    maxChar = e.getKey();
+
+        for(int i = 0; i<s.length();)
+        {
+            char max = '.';
+            for(int j = 0; j<123; j++)
+            {
+                if(freq[j] > freq[max])
+                {
+                    max = (char)j;
                 }
             }
-            
-            for (int i = 0; i < maxFrequency; i++) {
-                sortedString.append(maxChar);
+            while(freq[max] > 0)
+            {
+                arr[i++] = max;
+                freq[max]--;
             }
-            
-            frequencyMap.remove(maxChar);
         }
-        
-        return sortedString.toString();
+
+        return new String(arr);
     }
 }
