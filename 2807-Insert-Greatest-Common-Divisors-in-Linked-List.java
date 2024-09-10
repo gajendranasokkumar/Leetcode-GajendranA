@@ -9,21 +9,16 @@
  * }
  */
 class Solution {
-    public int findDivisor(int one, int two)
-    {
-        if(one > two){
-            int temp = one;
-            one = two;
-            two = temp;
+    public int gcd(int a, int b){
+        if(a == 1 || b==1){
+            return 1;
         }
-        int num = one;
-        while(one > 0)
-        {
-            if(num%one==0 && two%one==0)
-                return one;
-            one--;
+        while(b !=0){
+            int rem = a % b;
+            a = b;
+            b= rem;
         }
-        return one;
+        return a;
     }
     public ListNode insertGreatestCommonDivisors(ListNode head) {
         ListNode temp = head;
@@ -31,7 +26,7 @@ class Solution {
         {
             int num1 = temp.val;
             int num2 = temp.next.val;
-            int div = findDivisor(num1, num2);
+            int div = gcd(num1, num2);
             ListNode newnode = new ListNode(div);
             ListNode newtemp = temp.next;
             temp.next = newnode;
