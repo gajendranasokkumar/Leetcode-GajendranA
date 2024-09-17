@@ -1,16 +1,39 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
-        List<Integer> li = new ArrayList<>();
-        rotate(matrix,li,matrix.length,matrix[0].length,0,-1,0,1);
-        return li;
-    }
-    public void rotate(int[][] matrix,List<Integer> li,int nr,int nc,int r,int c,int dr,int dc){
-        if(nr==0 || nc==0) return;
-        for(int i=0;i<nc;i++){
-            r+=dr;
-            c+=dc;
-            li.add(matrix[r][c]);
+        int n = matrix.length;
+        int m = matrix[0].length;
+
+        int[][] dir = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}}; // R, D, L, U
+
+
+        int curr_i = 0;
+        int curr_j = 0;
+        int curr_idx = 0;
+        List<Integer> ans = new ArrayList<>();
+        int maxi = n * m; // maximum number of ele will be rows X cols
+
+
+        while(ans.size() < maxi){
+            // add the curr ele in the arrayList
+            ans.add(matrix[curr_i][curr_j]);
+
+            // mark the ele as 1000 as range is (-100, 100)
+            matrix[curr_i][curr_j] = 1000;
+
+            // go in the same direction
+            int new_i = curr_i + dir[curr_idx][0];
+            int new_j = curr_j + dir[curr_idx][1];
+
+            // check boundary and visited
+            if(new_i >= n || new_j >= m || new_i < 0 || new_j < 0 || matrix[new_i][new_j] == 1000){
+
+                curr_idx = (curr_idx + 1) % 4; // so idx doesnt go out of bound
+                new_i = curr_i + dir[curr_idx][0];
+                new_j = curr_j + dir[curr_idx][1];
+            }
+            curr_i = new_i;
+            curr_j = new_j;
         }
-        rotate(matrix,li,nc,nr-1,r,c,dc,-dr);
+        return ans;
     }
 }
