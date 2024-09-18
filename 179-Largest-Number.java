@@ -5,12 +5,7 @@ class Solution {
             numStrs[i] = Integer.toString(nums[i]);
         }
 
-        Arrays.sort(numStrs, new Comparator<String>() {
-            @Override
-            public int compare(String x, String y) {
-                return (y + x).compareTo(x + y);
-            }
-        });
+        Arrays.sort(numStrs, (x, y) -> (y + x).compareTo(x + y));
 
         if (numStrs[0].equals(\0\)) {
             return \0\;
