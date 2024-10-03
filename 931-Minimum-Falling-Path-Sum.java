@@ -2,14 +2,11 @@ class Solution {
     int dp[][]; 
 
     int solve(int[][] matrix, int row, int col) {
-        if (row >= matrix.length || col >= matrix[0].length || col < 0) {
+        if (col == matrix[0].length || col < 0) {
             return Integer.MAX_VALUE;
         }
         if (row == matrix.length - 1) {
-            if (col < matrix[0].length && col >= 0)
-                return matrix[row][col];
-            else 
-                return 0;
+            return matrix[row][col];
         }
         if (dp[row][col] != Integer.MIN_VALUE) {
             return dp[row][col];
