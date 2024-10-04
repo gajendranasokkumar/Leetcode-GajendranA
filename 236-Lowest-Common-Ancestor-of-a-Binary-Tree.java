@@ -9,28 +9,21 @@
  */
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        ArrayList<TreeNode> list = new ArrayList<>();
-        check(root, p, q, list);
-        if (list.size() != 0) {
-            return list.get(list.size() - 1); 
-        }
-        return root;
+        return findLCA(root, p, q);
     }
 
-    public boolean check(TreeNode root, TreeNode p, TreeNode q, ArrayList<TreeNode> list) {
-        if (root == null) {
-            return false;
-        }
-        
-        boolean left = check(root.left, p, q, list);  
-        boolean right = check(root.right, p, q, list);
-        
-        boolean mid = (root == p || root == q);
-        
-        if ((mid && left) || (mid && right) || (left && right)) {
-            list.add(root);  
+    private TreeNode findLCA(TreeNode root, TreeNode p, TreeNode q) {
+        if (root == null || root == p || root == q) {
+            return root;
         }
 
-        return mid || left || right;
+        TreeNode left = findLCA(root.left, p, q);  
+        TreeNode right = findLCA(root.right, p, q);
+
+        if (left != null && right != null) {
+            return root;
+        }
+
+        return left != null ? left : right; 
     }
 }
