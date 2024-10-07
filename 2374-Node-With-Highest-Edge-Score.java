@@ -5,7 +5,7 @@ class Solution {
             map.putIfAbsent(edges[i], new ArrayList<Integer>());
             map.get(edges[i]).add(i);
         }
-        System.out.println(map);
+        // System.out.println(map);
         long max = -1; int node = 0;
         for(int i=0;i<edges.length;i++) {
             ArrayList<Integer> list = map.getOrDefault(i, new ArrayList<>());
