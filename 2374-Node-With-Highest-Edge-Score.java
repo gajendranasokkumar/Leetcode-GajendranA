@@ -1,23 +1,21 @@
 class Solution {
     public int edgeScore(int[] edges) {
-        Map<Integer, ArrayList<Integer>> map = new HashMap<>();
-        for(int i=0;i<edges.length;i++) {
-            map.putIfAbsent(edges[i], new ArrayList<Integer>());
-            map.get(edges[i]).add(i);
+    long[] scores = new long[edges.length];
+        
+        for (int i = 0; i < edges.length; i++) {
+            scores[edges[i]] += i;
         }
-        // System.out.println(map);
-        long max = -1; int node = 0;
-        for(int i=0;i<edges.length;i++) {
-            ArrayList<Integer> list = map.getOrDefault(i, new ArrayList<>());
-            long sum = 0;
-            for(int j=0;j<list.size();j++) {
-                sum += list.get(j);
-            }
-            if(max < sum) {
-                max = sum;
-                node = i;
+      
+        int maxNode = 0;
+        long maxScore = scores[0];
+        
+        for (int i = 1; i < scores.length; i++) {
+            if (scores[i] > maxScore) {
+                maxScore = scores[i];
+                maxNode = i;
             }
         }
-        return node;
+        
+        return maxNode;    
     }
 }
