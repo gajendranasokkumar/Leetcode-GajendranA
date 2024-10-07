@@ -5,7 +5,7 @@ class Solution {
         
         String[] s1 = sentence1.split(" ");
         String[] s2 = sentence2.split(" ");
-        
+
         int i = 0; 
         int j = 0; 
         
