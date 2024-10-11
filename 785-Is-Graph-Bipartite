@@ -1,0 +1,41 @@
+class Solution {
+    int rows;
+
+    public boolean isBipartite(int[][] graph) {
+        rows = graph.length;
+        int[] color = new int[rows];
+        boolean[] visited = new boolean[rows];
+        
+        for (int i = 0; i < rows; i++) {
+            color[i] = -1;
+        }
+
+        for (int i = 0; i < rows; i++) {
+            if (!visited[i]) {
+                boolean res = dfs(graph, i, visited, color, 0);
+                if (!res) {
+                    return false;
+                }
+            }
+        }
+
+        return true;
+    }
+
+    public boolean dfs(int[][] graph, int node, boolean[] visited, int[] color, int c) {
+        if (visited[node]) {
+            return color[node] == c;
+        }
+
+        visited[node] = true;
+        color[node] = c;
+
+        for (int neighbor : graph[node]) {
+            if (!dfs(graph, neighbor, visited, color, c ^ 1)) {
+                return false;
+            }
+        }
+
+        return true;
+    }
+}
