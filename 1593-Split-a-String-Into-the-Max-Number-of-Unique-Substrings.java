@@ -1,32 +1,26 @@
 class Solution {
-    public int maxUniqueSplit(String s) {
-        if (s.length() == 0)
-            return 0;
-        Set<String> set = new HashSet<>();
-        return check(s.toCharArray(), s.length(), 0, set);
-    }
 
-    public int check(char[] arr, int size, int index, Set<String> set) {
-        if (index == size) {
-            return 0;  
-        }
+    int ans = 0;
+    private void solve(int idx, String s, Set<String> set){
+        if(idx >= s.length()){
+            ans = Math.max(ans, set.size());
+            return ;
+        } 
 
-        int maxSplit = 0;
-        String one = "";
-
-        for (int i = index; i < size; i++) {
-            one += arr[i]; 
-
-            if (!set.contains(one)) {
-                set.add(one);  
-                
-                int splitCount = 1 + check(arr, size, i + 1, set);
-                maxSplit = Math.max(maxSplit, splitCount);
-                
-                set.remove(one);
+        for(int i = idx ; i < s.length(); i++){
+            String temp = s.substring(idx, i + 1);
+            if(!set.contains(temp)){
+                set.add(temp);
+                solve(i + 1, s, set);
+                set.remove(temp);
             }
         }
 
-        return maxSplit;
+    }
+
+    public int maxUniqueSplit(String s) {
+        solve(0, s, new HashSet<>());
+
+        return ans;
     }
 }
