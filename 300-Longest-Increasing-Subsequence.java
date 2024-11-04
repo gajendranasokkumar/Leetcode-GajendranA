@@ -1,31 +1,16 @@
 class Solution {
-    public int lengthOfLIS(int[] arr) {
-        int n = arr.length;
-        int res = 1;
-        int[] memo = new int[n];
-        Arrays.fill(memo, -1);
-        
-        for (int idx = 1; idx < n; idx++)
-            res = Math.max(res, lisEndingAtIdx(arr, idx, memo));
-        
-        return res;
-    }
-
-    static int lisEndingAtIdx(int[] arr, int idx, int[] memo) {      
-        if (memo[idx] != -1) 
-            return memo[idx];
-        
-        if (idx == 0)
-            return 1;
-
-        int mx = 1;
-        for (int prev = 0; prev < idx; prev++) {
-            if (arr[prev] < arr[idx]) {
-                mx = Math.max(mx, lisEndingAtIdx(arr, prev, memo) + 1);
+    public int lengthOfLIS(int[] nums) {
+        int[] dp = new int[nums.length];
+        Arrays.fill(dp, 1);
+        int max = -1;
+        for(int i = 0;i < nums.length;i++) {
+            for(int j = i-1;j >= 0;j--) {
+                if(nums[i] > nums[j]) {
+                    dp[i] = Math.max(dp[i], 1 + dp[j]);
+                }
             }
+            max = Math.max(max, dp[i]);
         }
-        
-        memo[idx] = mx;
-        return mx;
+        return max;
     }
 }
