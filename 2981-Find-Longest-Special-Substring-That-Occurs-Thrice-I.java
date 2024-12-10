@@ -6,7 +6,6 @@ class Solution {
             String temp = sb.substring(i, i+w);
             map.put(temp, map.getOrDefault(temp, 0) + 1);
         }
-        System.out.println(map);
         for(String one: map.keySet()) {
             if(map.get(one) >= 3 && isValid(one)) {
                 maxi = Math.max(maxi, w);
