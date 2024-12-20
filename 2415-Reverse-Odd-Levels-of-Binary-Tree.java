@@ -15,39 +15,20 @@
  */
 class Solution {
     public TreeNode reverseOddLevels(TreeNode root) {
-        if (root == null) return null;
-        
-        Queue<TreeNode> queue = new LinkedList<>();
-        queue.add(root);
-        boolean isOddLevel = false;
-        
-        while (!queue.isEmpty()) {
-            int size = queue.size();
-            List<TreeNode> nodes = new ArrayList<>();
-            
-            for (int i = 0; i < size; i++) {
-                TreeNode node = queue.poll();
-                if (isOddLevel) {
-                    nodes.add(node);
-                }
-                if (node.left != null) queue.add(node.left);
-                if (node.right != null) queue.add(node.right);
-            }
-            
-            if (isOddLevel) {
-                int left = 0, right = nodes.size() - 1;
-                while (left < right) {
-                    int temp = nodes.get(left).val;
-                    nodes.get(left).val = nodes.get(right).val;
-                    nodes.get(right).val = temp;
-                    left++;
-                    right--;
-                }
-            }
-            
-            isOddLevel = !isOddLevel;
-        }
-        
+        dfs(root.left, root.right, 0);
         return root;
+    }
+    
+    private void dfs(TreeNode left, TreeNode right, int depth) {
+        if (left == null && right == null) return;
+
+        if (depth % 2 == 0) {
+            int temp = left.val;
+            left.val = right.val;
+            right.val = temp;
+        }
+
+        dfs(left.left, right.right, depth + 1);
+        dfs(left.right, right.left, depth + 1);
     }
 }
