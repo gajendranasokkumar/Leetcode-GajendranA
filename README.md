@@ -27,4 +27,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
