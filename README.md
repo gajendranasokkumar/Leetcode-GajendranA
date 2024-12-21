@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0006-zigzag-conversion) |
+| [0072-edit-distance](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1250-longest-common-subsequence) |
@@ -31,6 +32,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1250-longest-common-subsequence) |
