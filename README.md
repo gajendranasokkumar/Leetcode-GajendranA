@@ -44,11 +44,13 @@
 ## Array
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0287-find-the-duplicate-number) |
 | [0739-daily-temperatures](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0739-daily-temperatures) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0287-find-the-duplicate-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Linked List
 |  |
@@ -70,4 +72,12 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0739-daily-temperatures) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
