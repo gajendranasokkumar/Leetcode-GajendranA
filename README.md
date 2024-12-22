@@ -51,9 +51,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
