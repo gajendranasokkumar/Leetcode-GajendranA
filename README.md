@@ -44,6 +44,7 @@
 ## Array
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0739-daily-temperatures) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Bit Manipulation
 |  |
@@ -59,9 +60,14 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0394-decode-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0024-swap-nodes-in-pairs) |
 | [0394-decode-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0394-decode-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
