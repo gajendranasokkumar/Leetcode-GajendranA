@@ -17,6 +17,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0279-perfect-squares) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0072-edit-distance) |
+| [0279-perfect-squares](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0279-perfect-squares) |
 | [0516-longest-palindromic-subsequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1250-longest-common-subsequence) |
@@ -86,6 +88,7 @@
 ## Math
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0279-perfect-squares) |
 | [0670-maximum-swap](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0670-maximum-swap) |
 ## Greedy
 |  |
