@@ -56,6 +56,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0139-word-break) |
 | [0287-find-the-duplicate-number](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0287-find-the-duplicate-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -110,6 +111,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0208-implement-trie-prefix-tree) |
@@ -137,4 +139,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0380-insert-delete-getrandom-o1) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
