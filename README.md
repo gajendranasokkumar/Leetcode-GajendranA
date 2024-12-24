@@ -33,6 +33,7 @@
 | [0006-zigzag-conversion](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0006-zigzag-conversion) |
 | [0032-longest-valid-parentheses](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0139-word-break) |
 | [0394-decode-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0516-longest-palindromic-subsequence) |
@@ -106,6 +107,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0139-word-break) |
 | [0768-partition-labels](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0768-partition-labels) |
 ## Trie
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0139-word-break) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
