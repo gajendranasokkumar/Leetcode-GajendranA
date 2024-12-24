@@ -35,6 +35,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0006-zigzag-conversion) |
 | [0032-longest-valid-parentheses](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0139-word-break) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0394-decode-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0739-daily-temperatures) |
