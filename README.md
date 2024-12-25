@@ -82,6 +82,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Stack
@@ -105,6 +106,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0287-find-the-duplicate-number](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0287-find-the-duplicate-number) |
 | [0768-partition-labels](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0768-partition-labels) |
 ## Binary Search
