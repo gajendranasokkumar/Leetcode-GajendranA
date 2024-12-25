@@ -91,6 +91,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0287-find-the-duplicate-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Linked List
@@ -188,4 +189,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0067-add-binary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
