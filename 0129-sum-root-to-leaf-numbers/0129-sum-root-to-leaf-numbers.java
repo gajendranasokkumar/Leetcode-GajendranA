@@ -16,18 +16,18 @@
 class Solution {
     int total = 0;
     public int sumNumbers(TreeNode root) {
-        dfs(root, "");
+        dfs(root, 0);
         return total; 
     }
 
-    public void dfs(TreeNode root, String str) {
+    public void dfs(TreeNode root, int str) {
         if(root == null)
             return;
 
-        str += String.valueOf(root.val);
+        str = (str * 10) + root.val;
 
         if(root.left == null && root.right == null){
-            total += Integer.parseInt(str);
+            total += str;
             return;
         }
         
