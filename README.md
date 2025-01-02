@@ -16,6 +16,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0079-word-search) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -59,6 +60,7 @@
 | [0071-simplify-path](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0208-implement-trie-prefix-tree) |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0079-word-search) |
 | [0137-single-number-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -211,6 +214,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0289-game-of-life) |
 | [0945-snakes-and-ladders](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0945-snakes-and-ladders) |
 ## Graph
@@ -230,6 +234,7 @@
 |  |
 | ------- |
 | [0077-combinations](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0494-target-sum) |
 ## Heap (Priority Queue)
 |  |
