@@ -99,6 +99,7 @@
 | [0289-game-of-life](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0494-target-sum](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0494-target-sum) |
+| [0502-ipo](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0502-ipo) |
 | [0739-daily-temperatures](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0739-daily-temperatures) |
 | [0945-snakes-and-ladders](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0945-snakes-and-ladders) |
 | [1025-minimum-cost-for-tickets](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1025-minimum-cost-for-tickets) |
@@ -165,6 +166,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0502-ipo) |
 | [0670-maximum-swap](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0768-partition-labels) |
 ## Hash Table
@@ -232,6 +234,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0502-ipo](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0502-ipo) |
 | [2413-smallest-number-in-infinite-set](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2413-smallest-number-in-infinite-set) |
 ## Ordered Set
 |  |
@@ -242,4 +245,8 @@
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2691-count-vowel-strings-in-ranges) |
+## Sorting
+|  |
+| ------- |
+| [0502-ipo](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0502-ipo) |
 <!---LeetCode Topics End-->
