@@ -5,7 +5,7 @@ class Solution {
         {
             arr[i-1] = i;
         }
-        System.out.println(Arrays.toString(arr));
+        // System.out.println(Arrays.toString(arr));
 
         int count = 0;
         int i = 0;
@@ -17,7 +17,7 @@ class Solution {
                 break;
             if(s == k && arr[i] != 0)
             {
-                System.out.println(arr[i]);
+                // System.out.println(arr[i]);
                 arr[i] = 0;
                 count++;
                 s = 1;
