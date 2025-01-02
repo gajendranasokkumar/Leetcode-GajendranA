@@ -72,6 +72,7 @@
 | [1250-longest-common-subsequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1063-best-sightseeing-pair) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -239,4 +241,5 @@
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
