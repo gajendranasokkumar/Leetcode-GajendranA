@@ -119,6 +119,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1063-best-sightseeing-pair) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2358-number-of-ways-to-split-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2358-number-of-ways-to-split-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Bit Manipulation
@@ -273,6 +274,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0410-split-array-largest-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Sorting
 |  |
