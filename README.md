@@ -58,6 +58,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0076-minimum-window-substring) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0036-valid-sudoku) |
+| [0068-text-justification](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -250,6 +252,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0289-game-of-life) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
