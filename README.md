@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0006-zigzag-conversion) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0071-simplify-path) |
@@ -194,6 +195,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0127-word-ladder) |
@@ -219,6 +221,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0076-minimum-window-substring) |
 ## Design
 |  |
