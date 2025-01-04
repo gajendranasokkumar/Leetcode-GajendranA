@@ -122,6 +122,7 @@
 | [0502-ipo](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0502-ipo) |
 | [0739-daily-temperatures](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0739-daily-temperatures) |
 | [0945-snakes-and-ladders](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0945-snakes-and-ladders) |
+| [1014-k-closest-points-to-origin](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1063-best-sightseeing-pair) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -189,6 +190,7 @@
 | [0279-perfect-squares](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0670-maximum-swap](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0670-maximum-swap) |
+| [1014-k-closest-points-to-origin](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1014-k-closest-points-to-origin) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Greedy
 |  |
@@ -264,6 +266,7 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0190-reverse-bits) |
+| [1014-k-closest-points-to-origin](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1014-k-closest-points-to-origin) |
 ## Backtracking
 |  |
 | ------- |
@@ -275,6 +278,7 @@
 |  |
 | ------- |
 | [0502-ipo](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0502-ipo) |
+| [1014-k-closest-points-to-origin](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1014-k-closest-points-to-origin) |
 | [2413-smallest-number-in-infinite-set](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2413-smallest-number-in-infinite-set) |
 ## Ordered Set
 |  |
@@ -292,6 +296,7 @@
 |  |
 | ------- |
 | [0502-ipo](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0502-ipo) |
+| [1014-k-closest-points-to-origin](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1014-k-closest-points-to-origin) |
 ## Queue
 |  |
 | ------- |
@@ -300,4 +305,9 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0149-max-points-on-a-line) |
+| [1014-k-closest-points-to-origin](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
