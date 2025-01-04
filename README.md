@@ -77,6 +77,7 @@
 | [1250-longest-common-subsequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
 |  |
@@ -134,6 +135,7 @@
 | [0137-single-number-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0287-find-the-duplicate-number) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Linked List
 |  |
@@ -209,6 +211,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0433-minimum-genetic-mutation](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0433-minimum-genetic-mutation) |
 | [0768-partition-labels](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0768-partition-labels) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2413-smallest-number-in-infinite-set](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2413-smallest-number-in-infinite-set) |
 ## Trie
 |  |
@@ -282,6 +285,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0410-split-array-largest-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Sorting
