@@ -140,6 +140,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2465-shifting-letters-ii) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2636-maximum-subsequence-score](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2636-maximum-subsequence-score) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Bit Manipulation
 |  |
@@ -218,6 +219,7 @@
 | [0670-maximum-swap](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0768-partition-labels) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [2636-maximum-subsequence-score](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2636-maximum-subsequence-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -300,6 +302,7 @@
 | [0502-ipo](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0502-ipo) |
 | [1014-k-closest-points-to-origin](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1014-k-closest-points-to-origin) |
 | [2413-smallest-number-in-infinite-set](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2413-smallest-number-in-infinite-set) |
+| [2636-maximum-subsequence-score](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2636-maximum-subsequence-score) |
 ## Ordered Set
 |  |
 | ------- |
@@ -320,6 +323,7 @@
 | ------- |
 | [0502-ipo](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0502-ipo) |
 | [1014-k-closest-points-to-origin](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1014-k-closest-points-to-origin) |
+| [2636-maximum-subsequence-score](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2636-maximum-subsequence-score) |
 ## Queue
 |  |
 | ------- |
