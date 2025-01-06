@@ -153,6 +153,7 @@
 | [0137-single-number-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0287-find-the-duplicate-number) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Linked List
