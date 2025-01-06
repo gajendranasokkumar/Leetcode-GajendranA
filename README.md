@@ -87,6 +87,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2465-shifting-letters-ii) |
+| [2470-removing-stars-from-a-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
 |  |
@@ -177,6 +178,7 @@
 | [0394-decode-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0739-daily-temperatures) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [2470-removing-stars-from-a-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -292,6 +294,7 @@
 | [0068-text-justification](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0289-game-of-life) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2470-removing-stars-from-a-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2470-removing-stars-from-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
