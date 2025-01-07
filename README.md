@@ -112,6 +112,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0583-delete-operation-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0747-min-cost-climbing-stairs) |
+| [0806-domino-and-tromino-tiling](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0806-domino-and-tromino-tiling) |
 | [1025-minimum-cost-for-tickets](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1250-longest-common-subsequence) |
