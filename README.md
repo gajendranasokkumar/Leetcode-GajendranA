@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0006-zigzag-conversion) |
+| [0022-generate-parentheses](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0067-add-binary) |
@@ -100,6 +101,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -318,6 +320,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0212-word-search-ii) |
