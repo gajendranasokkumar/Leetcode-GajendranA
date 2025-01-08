@@ -97,6 +97,7 @@
 | [2465-shifting-letters-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3305-count-prefix-and-suffix-pairs-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
@@ -161,6 +162,7 @@
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2636-maximum-subsequence-score](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2636-maximum-subsequence-score) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3305-count-prefix-and-suffix-pairs-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
 |  |
@@ -266,6 +268,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0212-word-search-ii) |
 | [1397-search-suggestions-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1397-search-suggestions-system) |
+| [3305-count-prefix-and-suffix-pairs-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Memoization
 |  |
@@ -372,13 +375,16 @@
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1524-string-matching-in-an-array) |
+| [3305-count-prefix-and-suffix-pairs-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
 | ------- |
+| [3305-count-prefix-and-suffix-pairs-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [3305-count-prefix-and-suffix-pairs-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
