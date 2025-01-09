@@ -161,6 +161,7 @@
 | [1397-search-suggestions-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1397-search-suggestions-system) |
 | [1524-string-matching-in-an-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1524-string-matching-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1833-find-the-highest-altitude](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -364,6 +365,7 @@
 | [0410-split-array-largest-sum](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0410-split-array-largest-sum) |
 | [0878-shifting-letters](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0878-shifting-letters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1833-find-the-highest-altitude](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2358-number-of-ways-to-split-array) |
