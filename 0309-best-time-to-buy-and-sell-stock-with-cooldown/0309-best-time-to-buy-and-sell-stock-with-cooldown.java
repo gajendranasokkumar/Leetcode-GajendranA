@@ -1,52 +1,33 @@
-// class Solution {
-//     public int maxProfit(int[] prices) {
-        
-//     }
-// }
-
 class Solution {
-    static int getAns(int[] Arr, int n, int ind, int buy, int cap, int[][][] dp) {
-        // Base case: If we have processed all stocks or have no capital left, return 0 profit
-        if(ind > n)
-            return 0;
-            
-        if (ind == n || cap == 0)
-            return 0;
-
-        // If the result for this state is already calculated, return it
-        if (dp[ind][buy][cap] != -1)
-            return dp[ind][buy][cap];
-
-        int profit=0;
-
-        if (buy == 0) { // We can buy the stock
-            profit = Math.max(0 + getAns(Arr, n, ind + 1, 0, cap, dp),
-                    -Arr[ind] + getAns(Arr, n, ind + 1, 1, cap, dp));
+    public int maxProfit(int[] prices) {
+        // using recursion with memoization
+        // tc: O(n*2)
+        // sc: O(n) + O(n*2)
+        int n = prices.length;
+        int[][] dp = new int[n + 2][2];
+        // dp size is n+2 as we can go to n+1
+        for (int[] row : dp) {
+            Arrays.fill(row, -1);
         }
-
-        if (buy == 1) { // We can sell the stock
-            profit = Math.max(0 + getAns(Arr, n, ind + 1, 1, cap, dp),
-                    Arr[ind] + getAns(Arr, n, ind + 2, 0, cap - 1, dp));
-        }
-
-        // Store the calculated profit in the dp array and return it
-        return dp[ind][buy][cap] = profit;
+        return solve(0, 1, prices, dp);
     }
 
-    static int maxProfit(int[] prices) {
-        int n = prices.length;
-
-        // Creating a 3D dp array of size [n][2][3]
-        int[][][] dp = new int[n][2][n+1];
-
-        // Initialize the dp array with -1
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < 2; j++) {
-                Arrays.fill(dp[i][j], -1);
-            }
+    private int solve(int ind, int canBuy, int[] prices, int[][] dp) {
+        if (ind >= prices.length) {
+            // we use >= as at n-1, we can have ind+2. = n+1.
+            return 0;
         }
-
-        // Calculate and return the maximum profit
-        return getAns(prices, n, 0, 0, n, dp);
+        if (dp[ind][canBuy] != -1) {
+            return dp[ind][canBuy];
+        }
+        if (canBuy == 1) {
+            int buy = -prices[ind] + solve(ind + 1, 0, prices, dp);
+            int skip = 0 + solve(ind + 1, 1, prices, dp);
+            return dp[ind][canBuy] = Math.max(buy, skip);
+        } else {
+            int sell = prices[ind] + solve(ind + 2, 1, prices, dp);
+            int skip = 0 + solve(ind + 1, 0, prices, dp);
+            return dp[ind][canBuy] = Math.max(sell, skip);
+        }
     }
 }
