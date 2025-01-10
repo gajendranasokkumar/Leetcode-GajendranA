@@ -7,9 +7,7 @@ class Solution {
             Arrays.fill(tempCharFreq, 0);
             for (char ch : word.toCharArray()) {
                 tempCharFreq[ch - 'a']++;
-            }
-            for (int i = 0; i < 26; ++i) {
-                maxCharFreq[i] = Math.max(maxCharFreq[i], tempCharFreq[i]);
+                maxCharFreq[ch - 'a'] = Math.max(maxCharFreq[ch - 'a'], tempCharFreq[ch - 'a']);
             }
         }
 
