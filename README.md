@@ -11,6 +11,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -27,6 +28,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -58,6 +60,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## String
@@ -127,6 +130,7 @@
 | [1063-best-sightseeing-pair](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Array
