@@ -94,6 +94,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0433-minimum-genetic-mutation) |
 | [0516-longest-palindromic-subsequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0583-delete-operation-for-two-strings) |
+| [0649-dota2-senate](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0768-partition-labels) |
 | [0878-shifting-letters](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0878-shifting-letters) |
 | [0952-word-subsets](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0952-word-subsets) |
@@ -277,6 +278,7 @@
 | [0316-remove-duplicate-letters](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0502-ipo) |
+| [0649-dota2-senate](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0768-partition-labels) |
@@ -415,6 +417,7 @@
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0649-dota2-senate) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Geometry
 |  |
