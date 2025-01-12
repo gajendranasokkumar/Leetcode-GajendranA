@@ -334,6 +334,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0380-insert-delete-getrandom-o1](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0969-number-of-recent-calls](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2413-smallest-number-in-infinite-set) |
 ## Randomized
 |  |
@@ -418,6 +419,7 @@
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0649-dota2-senate) |
+| [0969-number-of-recent-calls](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0969-number-of-recent-calls) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Geometry
 |  |
@@ -450,4 +452,8 @@
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1777-determine-if-two-strings-are-close) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
