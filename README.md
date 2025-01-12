@@ -212,6 +212,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -225,6 +226,7 @@
 | [0739-daily-temperatures](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0739-daily-temperatures) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
 |  |
@@ -246,6 +248,7 @@
 | [0086-partition-list](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0086-partition-list) |
 | [0287-find-the-duplicate-number](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0287-find-the-duplicate-number) |
 | [0768-partition-labels](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0768-partition-labels) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Binary Search
