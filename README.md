@@ -107,6 +107,7 @@
 | [1524-string-matching-in-an-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1777-determine-if-two-strings-are-close) |
+| [1894-merge-strings-alternately](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -251,6 +252,7 @@
 | [0287-find-the-duplicate-number](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0768-partition-labels) |
+| [1894-merge-strings-alternately](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1894-merge-strings-alternately) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2553-total-cost-to-hire-k-workers) |
