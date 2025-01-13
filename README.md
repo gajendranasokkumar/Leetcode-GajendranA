@@ -168,6 +168,7 @@
 | [0410-split-array-largest-sum](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0502-ipo) |
+| [0605-can-place-flowers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0724-find-pivot-index) |
@@ -286,6 +287,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0502-ipo) |
+| [0605-can-place-flowers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
