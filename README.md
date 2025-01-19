@@ -42,6 +42,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0127-word-ladder) |
 | [0279-perfect-squares](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0279-perfect-squares) |
+| [0407-trapping-rain-water-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0407-trapping-rain-water-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0433-minimum-genetic-mutation) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -166,6 +167,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0334-increasing-triplet-subsequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0407-trapping-rain-water-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0502-ipo) |
@@ -368,6 +370,7 @@
 | [0079-word-search](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0289-game-of-life) |
+| [0407-trapping-rain-water-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0407-trapping-rain-water-ii) |
 | [0945-snakes-and-ladders](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0945-snakes-and-ladders) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -405,6 +408,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0407-trapping-rain-water-ii) |
 | [0502-ipo](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0502-ipo) |
 | [1014-k-closest-points-to-origin](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1014-k-closest-points-to-origin) |
 | [1397-search-suggestions-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1397-search-suggestions-system) |
