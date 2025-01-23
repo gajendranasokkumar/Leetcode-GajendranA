@@ -14,6 +14,7 @@
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2104-operations-on-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2104-operations-on-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -36,6 +37,7 @@
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2104-operations-on-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2104-operations-on-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
@@ -58,6 +60,7 @@
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1876-map-of-highest-peak](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2104-operations-on-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2104-operations-on-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
@@ -200,6 +203,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2104-operations-on-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2104-operations-on-tree) |
 | [2145-grid-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2358-number-of-ways-to-split-array) |
@@ -336,6 +340,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1777-determine-if-two-strings-are-close) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2104-operations-on-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2104-operations-on-tree) |
 | [2413-smallest-number-in-infinite-set](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2428-equal-row-and-column-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2685-first-completely-painted-row-or-column) |
@@ -369,6 +374,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0380-insert-delete-getrandom-o1](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0969-number-of-recent-calls](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0969-number-of-recent-calls) |
+| [2104-operations-on-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2104-operations-on-tree) |
 | [2413-smallest-number-in-infinite-set](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2413-smallest-number-in-infinite-set) |
 ## Randomized
 |  |
