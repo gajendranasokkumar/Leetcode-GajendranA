@@ -1,43 +1,30 @@
 class Solution {
     public List<Integer> eventualSafeNodes(int[][] graph) {
-        Map<Integer, ArrayList<Integer>> adj = new HashMap<>();
-        int len = graph.length;
-        for(int i=0;i<len;i++) {
-            for(int j=0;j<graph[i].length;j++) {
-                adj.putIfAbsent(graph[i][j], new ArrayList<Integer>());
-                adj.get(graph[i][j]).add(i);
+        int n = graph.length;
+        int[] state = new int[n]; // 0: unvisited, 1: visiting, 2: safe
+        List<Integer> safe = new ArrayList<>();
+
+        for (int i = 0; i < n; i++) {
+            if (dfs(graph, i, state)) {
+                safe.add(i);
             }
         }
-
-        Queue<Integer> q = new LinkedList<>();
-        ArrayList<Integer> result = new ArrayList<>();
-
-        int[] indegree = new int[len];
-        for(int i=0;i<len;i++) {
-            if(adj.containsKey(i))
-                for(int j: adj.get(i))
-                    indegree[j]++;
-        }
-
-        for(int i=0;i<len;i++) 
-            if(indegree[i] == 0)
-                q.add(i);
-
-
-        while (!q.isEmpty()) {
-            int node = q.poll();
-            result.add(node);
-            if(adj.containsKey(node))
-                for (int neighbor : adj.get(node)) {
-                    indegree[neighbor]--;
-                    if (indegree[neighbor] == 0) {
-                        q.offer(neighbor);
-                    }
-                }
-        }
-
-        Collections.sort(result);
         
-        return result;
+        return safe;
+    }
+
+    private boolean dfs(int[][] graph, int node, int[] state) {
+        if (state[node] > 0) return state[node] == 2; // Already safe
+        
+        state[node] = 1; // Mark as visiting
+        
+        for (int next : graph[node]) {
+            if (state[next] == 1 || !dfs(graph, next, state)) {
+                return false; // Cycle detected
+            }
+        }
+        
+        state[node] = 2; // Mark as safe
+        return true;
     }
 }
