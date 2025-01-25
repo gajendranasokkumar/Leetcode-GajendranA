@@ -18,16 +18,13 @@ class Solution {
                 map.get(ul_a).add(arr[i+1]);
             }
         }
-        Iterator<Map.Entry<Integer, List<Integer>>> iterator = map.entrySet().iterator();
-        while (iterator.hasNext()) {
-            Map.Entry<Integer, List<Integer>> entry = iterator.next();
-            if (entry.getValue().isEmpty()) { 
-                iterator.remove(); 
-            }
-        }
-
-        // System.out.println(parent);
-        // System.out.println(map);
+        // Iterator<Map.Entry<Integer, List<Integer>>> iterator = map.entrySet().iterator();
+        // while (iterator.hasNext()) {
+        //     Map.Entry<Integer, List<Integer>> entry = iterator.next();
+        //     if (entry.getValue().isEmpty()) { 
+        //         iterator.remove(); 
+        //     }
+        // }
 
         int idx = 0;
         while(idx < n) {
