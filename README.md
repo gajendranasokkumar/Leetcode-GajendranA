@@ -206,6 +206,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1833-find-the-highest-altitude) |
 | [1876-map-of-highest-peak](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1876-map-of-highest-peak) |
+| [1891-count-pairs-of-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1891-count-pairs-of-nodes) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -290,6 +291,7 @@
 | [0287-find-the-duplicate-number](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0768-partition-labels) |
+| [1891-count-pairs-of-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1891-count-pairs-of-nodes) |
 | [1894-merge-strings-alternately](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1894-merge-strings-alternately) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -300,6 +302,7 @@
 | [0287-find-the-duplicate-number](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0410-split-array-largest-sum) |
 | [1397-search-suggestions-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1397-search-suggestions-system) |
+| [1891-count-pairs-of-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1891-count-pairs-of-nodes) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Math
 |  |
@@ -418,6 +421,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1891-count-pairs-of-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1891-count-pairs-of-nodes) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Simulation
@@ -480,6 +484,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1014-k-closest-points-to-origin) |
 | [1397-search-suggestions-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1397-search-suggestions-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1777-determine-if-two-strings-are-close) |
+| [1891-count-pairs-of-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1891-count-pairs-of-nodes) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2636-maximum-subsequence-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
