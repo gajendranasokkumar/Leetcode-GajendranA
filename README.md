@@ -4,6 +4,7 @@
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0096-unique-binary-search-trees) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -76,6 +77,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0096-unique-binary-search-trees) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -143,6 +145,7 @@
 | [0022-generate-parentheses](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -453,6 +456,7 @@
 | [0022-generate-parentheses](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0079-word-search) |
+| [0095-unique-binary-search-trees-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0212-word-search-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0494-target-sum) |
 ## Heap (Priority Queue)
@@ -561,5 +565,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
