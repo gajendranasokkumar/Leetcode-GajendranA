@@ -1,45 +1,37 @@
 class Solution {
-    int[][] directions = { { 0, 1 }, { 0, -1 }, { 1, 0 }, { -1, 0 } };
-    boolean[][] visited;
-
     public int findMaxFish(int[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
-        int maxFish = 0;
+        int[] delrow = {0, +1, 0, -1};
+        int[] delcol = {-1, 0, +1, 0};
+        int maxsum = 0;
+        int[][] vis = new int[m][n];
 
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 0)
-                    continue;
-
-                visited = new boolean[m][n];
-
-                maxFish = Math.max(maxFish, dfs(grid, i, j, m, n));
-            }
-        }
-
-        return maxFish;
-    }
-
-    int dfs(int[][] grid, int i, int j, int m, int n) {
-        visited[i][j] = true;
-        int fish = 0;
-
-        if (grid[i][j] == 0)
-            return fish;
-
-        fish += grid[i][j];
-        for (int[] dir : directions) {
-            int nr = i + dir[0];
-            int nc = j + dir[1];
-            if (nr >= 0 && nr < m && nc >= 0 && nc < n) {
-                if (!visited[nr][nc]) {
-                    fish += dfs(grid, nr, nc, m, n);
+                if (grid[i][j] > 0 && vis[i][j] == 0) {
+                    int[] sum = new int[1]; // Array to track the sum by reference
+                    dfs(i, j, delrow, delcol, grid, vis, sum);
+                    maxsum = Math.max(maxsum, sum[0]); // Update maxsum
                 }
             }
         }
 
-        return fish;
+        return maxsum;
     }
 
+    private void dfs(int row, int col, int[] delrow, int[] delcol, int[][] grid, int[][] vis, int[] sum) {
+        int m = grid.length;
+        int n = grid[0].length;
+        vis[row][col] = 1;
+        sum[0] += grid[row][col]; // Update the sum
+
+        for (int i = 0; i < 4; i++) {
+            int r = row + delrow[i];
+            int c = col + delcol[i];
+            if (r >= 0 && r < m && c >= 0 && c < n && vis[r][c] == 0 && grid[r][c] > 0) {
+                dfs(r, c, delrow, delcol, grid, vis, sum);
+            }
+        }
+    }
 }
