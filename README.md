@@ -45,6 +45,7 @@
 | [1544-count-good-nodes-in-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2104-operations-on-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2104-operations-on-tree) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -76,6 +77,7 @@
 | [1544-count-good-nodes-in-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1876-map-of-highest-peak](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2104-operations-on-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2104-operations-on-tree) |
@@ -229,6 +231,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1524-string-matching-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1833-find-the-highest-altitude](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1833-find-the-highest-altitude) |
 | [1876-map-of-highest-peak](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -442,6 +445,7 @@
 | [0945-snakes-and-ladders](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1876-map-of-highest-peak](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2145-grid-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2145-grid-game) |
@@ -589,6 +593,7 @@
 | [0685-redundant-connection-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0685-redundant-connection-ii) |
 | [0854-making-a-large-island](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1396-count-servers-that-communicate) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
