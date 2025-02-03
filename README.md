@@ -256,6 +256,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2792-neighboring-bitwise-xor) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -351,6 +352,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 ## Greedy
 |  |
 | ------- |
@@ -453,6 +455,7 @@
 | [2428-equal-row-and-column-pairs](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2428-equal-row-and-column-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 ## Graph
 |  |
 | ------- |
@@ -481,6 +484,7 @@
 | [2428-equal-row-and-column-pairs](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2470-removing-stars-from-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2553-total-cost-to-hire-k-workers) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 ## Divide and Conquer
 |  |
 | ------- |
