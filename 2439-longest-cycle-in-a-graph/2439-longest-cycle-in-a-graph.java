@@ -4,38 +4,36 @@ class Solution {
     public int longestCycle(int[] edges) {
         int n = edges.length;
         maxCycle = -1;
-        boolean[] visited = new boolean[n];
-        boolean[] inCurrentPath = new boolean[n];
-        int[] pathLength = new int[n];
+        int[] visited = new int[n];
+        boolean[] inPath = new boolean[n];
         
         for (int i = 0; i < n; i++) {
-            if (!visited[i]) {
-                dfs(edges, i, 0, visited, inCurrentPath, pathLength);
+            if (visited[i] == 0) {
+                dfs(edges, i, 1, visited, inPath);
             }
         }
         
         return maxCycle;
     }
     
-    private void dfs(int[] edges, int curr, int length, boolean[] visited, boolean[] inCurrentPath, int[] pathLength) {
+    private void dfs(int[] edges, int curr, int time, int[] visited, boolean[] inPath) {
         if (curr == -1) {
             return;
         }
         
-        if (inCurrentPath[curr]) {
-            maxCycle = Math.max(maxCycle, length - pathLength[curr]);
+        if (inPath[curr]) {
+            maxCycle = Math.max(maxCycle, time - visited[curr]);
             return;
         }
         
-        if (visited[curr]) {
+        if (visited[curr] > 0) {
             return;
         }
         
-        visited[curr] = true;
-        inCurrentPath[curr] = true;
-        pathLength[curr] = length;
+        visited[curr] = time;
+        inPath[curr] = true;
         
-        dfs(edges, edges[curr], length + 1, visited, inCurrentPath, pathLength);
-        inCurrentPath[curr] = false;
+        dfs(edges, edges[curr], time + 1, visited, inPath);
+        inPath[curr] = false;
     }
 }
