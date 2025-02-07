@@ -12,6 +12,7 @@
 | [0437-path-sum-iii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0690-employee-importance](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0690-employee-importance) |
 | [0904-leaf-similar-trees](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -37,6 +38,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0685-redundant-connection-ii) |
+| [0690-employee-importance](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0690-employee-importance) |
 | [0813-all-paths-from-source-to-target](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0854-making-a-large-island) |
@@ -72,6 +74,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0685-redundant-connection-ii) |
+| [0690-employee-importance](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0690-employee-importance) |
 | [0813-all-paths-from-source-to-target](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0854-making-a-large-island) |
@@ -228,6 +231,7 @@
 | [0502-ipo](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0643-maximum-average-subarray-i) |
+| [0690-employee-importance](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0690-employee-importance) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0739-daily-temperatures) |
@@ -405,6 +409,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0433-minimum-genetic-mutation](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0433-minimum-genetic-mutation) |
+| [0690-employee-importance](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0690-employee-importance) |
 | [0768-partition-labels](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0952-word-subsets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1016-subarray-sums-divisible-by-k) |
