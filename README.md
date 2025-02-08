@@ -430,6 +430,7 @@
 | [2104-operations-on-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2104-operations-on-tree) |
 | [2413-smallest-number-in-infinite-set](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2428-equal-row-and-column-pairs) |
+| [2434-design-a-number-container-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2434-design-a-number-container-system) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2685-first-completely-painted-row-or-column](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -468,6 +469,7 @@
 | [0969-number-of-recent-calls](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0969-number-of-recent-calls) |
 | [2104-operations-on-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2104-operations-on-tree) |
 | [2413-smallest-number-in-infinite-set](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2413-smallest-number-in-infinite-set) |
+| [2434-design-a-number-container-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2434-design-a-number-container-system) |
 ## Randomized
 |  |
 | ------- |
@@ -556,12 +558,14 @@
 | [1397-search-suggestions-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1397-search-suggestions-system) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2413-smallest-number-in-infinite-set](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2413-smallest-number-in-infinite-set) |
+| [2434-design-a-number-container-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2434-design-a-number-container-system) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2636-maximum-subsequence-score) |
 ## Ordered Set
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2413-smallest-number-in-infinite-set) |
+| [2434-design-a-number-container-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2434-design-a-number-container-system) |
 ## Prefix Sum
 |  |
 | ------- |
