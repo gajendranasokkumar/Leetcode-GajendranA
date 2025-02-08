@@ -46,6 +46,7 @@
 | [0854-making-a-large-island](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0904-leaf-similar-trees) |
+| [0971-shortest-bridge](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0971-shortest-bridge) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1396-count-servers-that-communicate) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -86,6 +87,7 @@
 | [0854-making-a-large-island](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0945-snakes-and-ladders) |
+| [0971-shortest-bridge](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0971-shortest-bridge) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1117-as-far-from-land-as-possible](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1117-as-far-from-land-as-possible) |
 | [1396-count-servers-that-communicate](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1396-count-servers-that-communicate) |
@@ -250,6 +252,7 @@
 | [0878-shifting-letters](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0878-shifting-letters) |
 | [0945-snakes-and-ladders](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0952-word-subsets) |
+| [0971-shortest-bridge](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0971-shortest-bridge) |
 | [1014-k-closest-points-to-origin](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1025-minimum-cost-for-tickets](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1025-minimum-cost-for-tickets) |
@@ -491,6 +494,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0854-making-a-large-island](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0945-snakes-and-ladders) |
+| [0971-shortest-bridge](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0971-shortest-bridge) |
 | [1117-as-far-from-land-as-possible](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1117-as-far-from-land-as-possible) |
 | [1396-count-servers-that-communicate](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
