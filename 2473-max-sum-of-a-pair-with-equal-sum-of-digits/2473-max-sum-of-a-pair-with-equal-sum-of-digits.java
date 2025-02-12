@@ -5,10 +5,12 @@ class Solution {
         int sumArr[] = new int[82];
 
         for (int n : nums) {
-            if (sumArr[sum(n)] > 0)
-                max = Math.max(max, sumArr[sum(n)] + n);
+            int s = sum(n);
+            
+            if (sumArr[s] > 0)
+                max = Math.max(max, sumArr[s] + n);
 
-            sumArr[sum(n)] = Math.max(sumArr[sum(n)], n);
+            sumArr[s] = Math.max(sumArr[s], n);
         }
         return max;
     }
