@@ -5,23 +5,19 @@ class Solution {
         int sumArr[] = new int[82];
 
         for (int n : nums) {
-            int s = sum(n);
-            
+            int s = 0;
+            int num = n;
+            while (num > 0) {
+                int dig = num % 10;
+                s += dig;
+                num /= 10;
+            }
+
             if (sumArr[s] > 0)
                 max = Math.max(max, sumArr[s] + n);
 
             sumArr[s] = Math.max(sumArr[s], n);
         }
         return max;
-    }
-
-    public int sum(int num) {
-        int sum = 0;
-        while (num > 0) {
-            int dig = num % 10;
-            sum += dig;
-            num /= 10;
-        }
-        return sum;
     }
 }
