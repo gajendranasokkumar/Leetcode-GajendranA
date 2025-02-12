@@ -89,6 +89,7 @@
 | [0690-employee-importance](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0690-employee-importance) |
 | [0813-all-paths-from-source-to-target](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0820-find-eventual-safe-states) |
+| [0833-bus-routes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0945-snakes-and-ladders) |
@@ -261,6 +262,7 @@
 | [0724-find-pivot-index](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0747-min-cost-climbing-stairs) |
+| [0833-bus-routes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0854-making-a-large-island) |
 | [0878-shifting-letters](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0878-shifting-letters) |
 | [0881-loud-and-rich](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0881-loud-and-rich) |
@@ -453,6 +455,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0433-minimum-genetic-mutation) |
 | [0690-employee-importance](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0690-employee-importance) |
 | [0768-partition-labels](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0768-partition-labels) |
+| [0833-bus-routes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0833-bus-routes) |
 | [0952-word-subsets](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0952-word-subsets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1364-tuple-with-same-product](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1364-tuple-with-same-product) |
