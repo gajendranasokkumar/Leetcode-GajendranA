@@ -226,6 +226,7 @@
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [3140-count-visited-nodes-in-a-directed-graph](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Array
 |  |
@@ -492,6 +493,7 @@
 | [0139-word-break](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [3140-count-visited-nodes-in-a-directed-graph](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Sliding Window
 |  |
@@ -573,6 +575,7 @@
 | [2590-maximum-star-sum-of-a-graph](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2793-count-the-number-of-complete-components) |
+| [3140-count-visited-nodes-in-a-directed-graph](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Simulation
