@@ -4,12 +4,10 @@ class Solution {
         for(int i : nums)
             q.add((long)i);
         int operation = 0;
-        while(!q.isEmpty() && q.peek() < k) {
+        while(q.peek() < k) {
             long one = q.poll();
-            if(q.isEmpty())
-                break;
             long two = q.poll();
-            long newnum = Math.min(one, two) * 2 + Math.max(one, two);
+            long newnum = one * 2 + two;
             q.offer(newnum);
             operation++;
         }
