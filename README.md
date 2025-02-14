@@ -67,6 +67,7 @@
 | [2445-reachable-nodes-with-restrictions](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -114,6 +115,7 @@
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -574,6 +576,7 @@
 | [2445-reachable-nodes-with-restrictions](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2472-build-a-matrix-with-conditions) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2671-shortest-cycle-in-a-graph) |
@@ -729,6 +732,7 @@
 | [1663-detect-cycles-in-2d-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2035-count-sub-islands](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2035-count-sub-islands) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2793-count-the-number-of-complete-components) |
