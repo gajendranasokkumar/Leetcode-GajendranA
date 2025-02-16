@@ -162,6 +162,7 @@
 | [0076-minimum-window-substring](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -212,6 +213,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0279-perfect-squares](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0279-perfect-squares) |
@@ -633,6 +635,7 @@
 | [0077-combinations](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0131-palindrome-partitioning](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0813-all-paths-from-source-to-target) |
