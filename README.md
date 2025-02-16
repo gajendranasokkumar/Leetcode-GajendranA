@@ -95,6 +95,7 @@
 | [0833-bus-routes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0871-keys-and-rooms) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0945-snakes-and-ladders](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0971-shortest-bridge) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -220,6 +221,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0806-domino-and-tromino-tiling) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1025-minimum-cost-for-tickets](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1063-best-sightseeing-pair) |
 | [1117-as-far-from-land-as-possible](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1117-as-far-from-land-as-possible) |
@@ -337,6 +339,7 @@
 | [0190-reverse-bits](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1022-unique-paths-iii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1022-unique-paths-iii) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -568,6 +571,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0871-keys-and-rooms) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0881-loud-and-rich](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0881-loud-and-rich) |
 | [1300-critical-connections-in-a-network](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1300-critical-connections-in-a-network) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -768,4 +772,8 @@
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1300-critical-connections-in-a-network) |
+## Bitmask
+|  |
+| ------- |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0877-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
