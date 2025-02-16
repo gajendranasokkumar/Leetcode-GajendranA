@@ -299,6 +299,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1706-min-cost-to-connect-all-points) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1833-find-the-highest-altitude) |
 | [1876-map-of-highest-peak](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -636,6 +637,7 @@
 | [0494-target-sum](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1022-unique-paths-iii) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Heap (Priority Queue)
 |  |
