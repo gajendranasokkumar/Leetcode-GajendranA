@@ -3,7 +3,7 @@ class Solution {
         Set<String> set = new HashSet<>();
         boolean[] used = new boolean[tiles.length()];
         char[] arr = tiles.toCharArray();
-        Arrays.sort(arr); 
+        // Arrays.sort(arr); 
         backtrack(arr, new StringBuilder(), used, set);
         return set.size();
     }
