@@ -196,6 +196,7 @@
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -385,6 +386,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3447-clear-digits) |
 ## Recursion
@@ -463,6 +465,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2379-maximum-total-importance-of-roads](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2379-maximum-total-importance-of-roads) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2509-minimize-xor) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2636-maximum-subsequence-score](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2636-maximum-subsequence-score) |
@@ -644,6 +647,7 @@
 | [1022-unique-paths-iii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1022-unique-paths-iii) |
 | [1160-letter-tile-possibilities](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Heap (Priority Queue)
 |  |
