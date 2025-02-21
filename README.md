@@ -278,6 +278,7 @@
 | [0410-split-array-largest-sum](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0436-find-right-interval](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0436-find-right-interval) |
 | [0494-target-sum](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0605-can-place-flowers) |
@@ -436,6 +437,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0410-split-array-largest-sum) |
+| [0436-find-right-interval](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0436-find-right-interval) |
 | [0794-swim-in-rising-water](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0794-swim-in-rising-water) |
 | [1023-time-based-key-value-store](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1249-snapshot-array) |
@@ -716,6 +718,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0436-find-right-interval](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0436-find-right-interval) |
 | [0502-ipo](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0502-ipo) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1014-k-closest-points-to-origin](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1014-k-closest-points-to-origin) |
