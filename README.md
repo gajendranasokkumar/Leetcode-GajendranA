@@ -332,6 +332,7 @@
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2104-operations-on-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2107-find-unique-binary-string) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2145-grid-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2358-number-of-ways-to-split-array) |
@@ -447,6 +448,7 @@
 | [1249-snapshot-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1249-snapshot-array) |
 | [1397-search-suggestions-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1397-search-suggestions-system) |
 | [1891-count-pairs-of-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1891-count-pairs-of-nodes) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Math
@@ -521,6 +523,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2104-operations-on-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2107-find-unique-binary-string) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2413-smallest-number-in-infinite-set](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2428-equal-row-and-column-pairs) |
 | [2434-design-a-number-container-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2434-design-a-number-container-system) |
@@ -555,6 +558,7 @@
 | [0076-minimum-window-substring](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0643-maximum-average-subarray-i) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 ## Design
 |  |
 | ------- |
