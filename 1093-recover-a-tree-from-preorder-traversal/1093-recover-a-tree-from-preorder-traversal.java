@@ -20,21 +20,21 @@
 //         int n = traversal.length();
 //         int i = 0, num = 0, hyphen = 0;
         
-//         while (i < n) {
-//             hyphen = 0;
-//             while (i < n && traversal.charAt(i) == '-') {
-//                 hyphen++;
-//                 i++;
-//             }
+        // while (i < n) {
+        //     hyphen = 0;
+        //     while (i < n && traversal.charAt(i) == '-') {
+        //         hyphen++;
+        //         i++;
+        //     }
             
-//             num = 0;
-//             while (i < n && traversal.charAt(i) != '-') {
-//                 num = (num * 10) + (traversal.charAt(i) - '0');
-//                 i++;
-//             }
+        //     num = 0;
+        //     while (i < n && traversal.charAt(i) != '-') {
+        //         num = (num * 10) + (traversal.charAt(i) - '0');
+        //         i++;
+        //     }
             
-//             nums.add(new int[]{num, hyphen});
-//         }
+        //     nums.add(new int[]{num, hyphen});
+        // }
         
 //         if (nums.isEmpty()) return null;
 //         int[] pointer = new int[]{0};
@@ -66,31 +66,20 @@ class Solution {
         int n = traversal.length();
         int i=0;
         int num=0, hypen=0;
-        char c = traversal.charAt(i);
-        while(i < n && c != '-') {
-            num = (num * 10) + (c - '0');
-            i++;
-            if(i < n)
-                c = traversal.charAt(i);
-        }
-        nums.add(new int[]{num, 0});
-        while(i < n) {
-            hypen = num = 0;
-            c = traversal.charAt(i);
-            while(i < n && c == '-') {
+         while (i < n) {
+            hypen = 0;
+            while (i < n && traversal.charAt(i) == '-') {
                 hypen++;
-                c = traversal.charAt(i);
                 i++;
             }
-            i--;
-            c = traversal.charAt(i);
-            while(i < n && c != '-') {
-                num = (num * 10) + (c - '0');
+            
+            num = 0;
+            while (i < n && traversal.charAt(i) != '-') {
+                num = (num * 10) + (traversal.charAt(i) - '0');
                 i++;
-                if(i < n)
-                    c = traversal.charAt(i);
             }
-            nums.add(new int[]{num, hypen-1});
+            
+            nums.add(new int[]{num, hypen});
         }
 
         if(nums.size() == 0)
