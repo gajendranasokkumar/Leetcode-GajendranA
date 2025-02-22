@@ -13,6 +13,53 @@
  *     }
  * }
  */
+
+// class Solution {
+//     public TreeNode recoverFromPreorder(String traversal) {
+//         List<int[]> nums = new ArrayList<>();
+//         int n = traversal.length();
+//         int i = 0, num = 0, hyphen = 0;
+        
+//         while (i < n) {
+//             hyphen = 0;
+//             while (i < n && traversal.charAt(i) == '-') {
+//                 hyphen++;
+//                 i++;
+//             }
+            
+//             num = 0;
+//             while (i < n && traversal.charAt(i) != '-') {
+//                 num = (num * 10) + (traversal.charAt(i) - '0');
+//                 i++;
+//             }
+            
+//             nums.add(new int[]{num, hyphen});
+//         }
+        
+//         if (nums.isEmpty()) return null;
+//         int[] pointer = new int[]{0};
+//         return dfs(nums, pointer, -1);
+//     }
+    
+//     private TreeNode dfs(List<int[]> nums, int[] pointer, int prevLevel) {
+//         if (pointer[0] == nums.size()) return null;
+        
+//         int[] cur = nums.get(pointer[0]);
+//         int num = cur[0];
+//         int level = cur[1];
+        
+//         if (level <= prevLevel) return null;
+        
+//         TreeNode root = new TreeNode(num);
+//         pointer[0]++;
+        
+//         root.left = dfs(nums, pointer, level);
+//         root.right = dfs(nums, pointer, level);
+        
+//         return root;
+//     }
+// }
+
 class Solution {
     public TreeNode recoverFromPreorder(String traversal) {
         List<int[]> nums = new ArrayList<>();
