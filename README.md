@@ -447,6 +447,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0436-find-right-interval) |
@@ -855,4 +856,8 @@
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1706-min-cost-to-connect-all-points) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
