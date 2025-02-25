@@ -54,6 +54,7 @@
 | [0871-keys-and-rooms](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0881-loud-and-rich) |
 | [0904-leaf-similar-trees](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0904-leaf-similar-trees) |
+| [0960-minimize-malware-spread](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0960-minimize-malware-spread) |
 | [0971-shortest-bridge](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0971-shortest-bridge) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -108,6 +109,7 @@
 | [0871-keys-and-rooms](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0871-keys-and-rooms) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0945-snakes-and-ladders](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0945-snakes-and-ladders) |
+| [0960-minimize-malware-spread](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0960-minimize-malware-spread) |
 | [0971-shortest-bridge](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0971-shortest-bridge) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1117-as-far-from-land-as-possible](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1117-as-far-from-land-as-possible) |
@@ -306,6 +308,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0945-snakes-and-ladders](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0952-word-subsets) |
+| [0960-minimize-malware-spread](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0960-minimize-malware-spread) |
 | [0971-shortest-bridge](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0971-shortest-bridge) |
 | [1014-k-closest-points-to-origin](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -520,6 +523,7 @@
 | [0833-bus-routes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0833-bus-routes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0952-word-subsets) |
+| [0960-minimize-malware-spread](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0960-minimize-malware-spread) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1023-time-based-key-value-store) |
 | [1160-letter-tile-possibilities](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1160-letter-tile-possibilities) |
@@ -632,6 +636,7 @@
 | [0871-keys-and-rooms](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0871-keys-and-rooms) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0881-loud-and-rich](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0881-loud-and-rich) |
+| [0960-minimize-malware-spread](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0960-minimize-malware-spread) |
 | [1300-critical-connections-in-a-network](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1300-critical-connections-in-a-network) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -818,6 +823,7 @@
 | [0770-couples-holding-hands](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0770-couples-holding-hands) |
 | [0794-swim-in-rising-water](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0854-making-a-large-island) |
+| [0960-minimize-malware-spread](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0960-minimize-malware-spread) |
 | [1308-smallest-string-with-swaps](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1308-smallest-string-with-swaps) |
 | [1396-count-servers-that-communicate](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1396-count-servers-that-communicate) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1663-detect-cycles-in-2d-grid) |
