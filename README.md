@@ -168,6 +168,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0032-longest-valid-parentheses) |
@@ -228,6 +229,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0072-edit-distance) |
@@ -426,6 +428,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0024-swap-nodes-in-pairs) |
 | [0224-basic-calculator](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0394-decode-string) |
