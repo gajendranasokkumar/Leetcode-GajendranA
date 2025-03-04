@@ -377,6 +377,7 @@
 | [2636-maximum-subsequence-score](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2636-maximum-subsequence-score) |
 | [2685-first-completely-painted-row-or-column](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2792-neighboring-bitwise-xor) |
@@ -467,6 +468,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
 |  |
@@ -568,6 +570,7 @@
 | [2445-reachable-nodes-with-restrictions](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
