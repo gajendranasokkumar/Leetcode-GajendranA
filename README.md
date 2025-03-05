@@ -253,6 +253,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0740-delete-and-earn](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0806-domino-and-tromino-tiling) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0877-shortest-path-visiting-all-nodes) |
@@ -310,6 +311,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0794-swim-in-rising-water) |
 | [0833-bus-routes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0833-bus-routes) |
@@ -545,6 +547,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0433-minimum-genetic-mutation](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0433-minimum-genetic-mutation) |
 | [0690-employee-importance](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0690-employee-importance) |
+| [0740-delete-and-earn](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0768-partition-labels) |
 | [0833-bus-routes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0833-bus-routes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
