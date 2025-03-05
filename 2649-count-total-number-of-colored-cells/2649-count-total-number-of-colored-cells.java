@@ -1,8 +1,5 @@
 class Solution {
-    public long coloredCells(int n) {
-        long num = 1;
-        for(int i=1;i<n;i++) 
-            num += 4 * i;
-        return num;
+    public long coloredCells(long n) {
+        return 1L + (4L * (n * (n - 1L)) / 2L);
     }
 }
