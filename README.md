@@ -504,6 +504,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2649-count-total-number-of-colored-cells](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 ## Greedy
