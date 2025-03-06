@@ -388,6 +388,7 @@
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3227-find-missing-and-repeated-values) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -511,6 +512,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3227-find-missing-and-repeated-values](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3227-find-missing-and-repeated-values) |
 ## Greedy
 |  |
 | ------- |
@@ -579,6 +581,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
+| [3227-find-missing-and-repeated-values](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Trie
 |  |
@@ -657,6 +660,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3227-find-missing-and-repeated-values](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3227-find-missing-and-repeated-values) |
 ## Graph
 |  |
 | ------- |
