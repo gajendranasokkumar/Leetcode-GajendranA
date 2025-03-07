@@ -506,6 +506,7 @@
 | [0795-k-th-symbol-in-grammar](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1014-k-closest-points-to-origin](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1289-day-of-the-week](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1289-day-of-the-week) |
 | [1477-product-of-the-last-k-numbers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1951-find-the-winner-of-the-circular-game) |
