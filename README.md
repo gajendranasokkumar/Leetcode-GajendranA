@@ -296,6 +296,7 @@
 | [0212-word-search-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0212-word-search-ii) |
 | [0287-find-the-duplicate-number](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0289-game-of-life) |
+| [0307-range-sum-query-mutable](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0334-increasing-triplet-subsequence) |
@@ -619,6 +620,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0307-range-sum-query-mutable](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0969-number-of-recent-calls](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1023-time-based-key-value-store) |
@@ -916,4 +918,12 @@
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2610-closest-prime-numbers-in-range) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
