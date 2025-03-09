@@ -396,6 +396,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3483-alternating-groups-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -615,6 +616,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3483-alternating-groups-ii) |
 ## Design
 |  |
 | ------- |
