@@ -937,4 +937,8 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0307-range-sum-query-mutable) |
+## Database
+|  |
+| ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
