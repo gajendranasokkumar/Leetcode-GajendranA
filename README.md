@@ -404,6 +404,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3483-alternating-groups-ii) |
 ## Bit Manipulation
 |  |
@@ -424,6 +425,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2792-neighboring-bitwise-xor) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Linked List
 |  |
 | ------- |
@@ -630,6 +632,7 @@
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3483-alternating-groups-ii) |
 ## Design
 |  |
@@ -802,6 +805,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sorting
 |  |
 | ------- |
@@ -827,6 +831,7 @@
 | [0649-dota2-senate](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0969-number-of-recent-calls) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Geometry
 |  |
 | ------- |
