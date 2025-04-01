@@ -280,6 +280,7 @@
 | [1748-best-team-with-no-conflicts](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1748-best-team-with-no-conflicts) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2262-solving-questions-with-brainpower) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -377,6 +378,7 @@
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2145-grid-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2262-solving-questions-with-brainpower](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2262-solving-questions-with-brainpower) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
