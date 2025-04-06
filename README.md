@@ -373,6 +373,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2035-count-sub-islands](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2104-operations-on-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2104-operations-on-tree) |
@@ -433,6 +434,7 @@
 | [0877-shortest-path-visiting-all-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1022-unique-paths-iii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1022-unique-paths-iii) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2478-longest-nice-subarray](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2509-minimize-xor) |
@@ -545,6 +547,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2649-count-total-number-of-colored-cells) |
@@ -785,6 +788,7 @@
 | [1160-letter-tile-possibilities](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -985,4 +989,12 @@
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0570-managers-with-at-least-5-direct-reports) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
