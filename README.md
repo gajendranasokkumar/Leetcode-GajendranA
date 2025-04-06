@@ -14,6 +14,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0690-employee-importance](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0690-employee-importance) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -55,6 +56,7 @@
 | [0854-making-a-large-island](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0881-loud-and-rich) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0904-leaf-similar-trees) |
 | [0960-minimize-malware-spread](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0960-minimize-malware-spread) |
 | [0971-shortest-bridge](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0971-shortest-bridge) |
@@ -110,6 +112,7 @@
 | [0854-making-a-large-island](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0871-keys-and-rooms) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0945-snakes-and-ladders) |
 | [0960-minimize-malware-spread](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0960-minimize-malware-spread) |
 | [0971-shortest-bridge](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0971-shortest-bridge) |
@@ -157,6 +160,7 @@
 | [0437-path-sum-iii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -596,6 +600,7 @@
 | [0740-delete-and-earn](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0768-partition-labels) |
 | [0833-bus-routes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0833-bus-routes) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0952-word-subsets) |
