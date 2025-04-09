@@ -4,10 +4,9 @@ class Solution {
         int min = k;
         for(int num : nums) {
             set.add(num);
-            min = Math.min(min, num);
+            if(num < k)
+                return -1;
         }
-        if(min < k)
-            return -1;
         set.remove(k);
         return set.size();
     }
