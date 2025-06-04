@@ -245,6 +245,7 @@
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3447-clear-digits) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -535,6 +536,7 @@
 | [2553-total-cost-to-hire-k-workers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -1059,4 +1061,5 @@
 | [1656-count-good-triplets](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2998-count-symmetric-integers) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 <!---LeetCode Topics End-->
