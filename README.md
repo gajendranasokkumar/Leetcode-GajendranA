@@ -210,6 +210,7 @@
 | [0878-shifting-letters](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0878-shifting-letters) |
 | [0952-word-subsets](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1023-time-based-key-value-store) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -988,6 +989,7 @@
 | [0794-swim-in-rising-water](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0854-making-a-large-island) |
 | [0960-minimize-malware-spread](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0960-minimize-malware-spread) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1308-smallest-string-with-swaps](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1308-smallest-string-with-swaps) |
 | [1396-count-servers-that-communicate](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1396-count-servers-that-communicate) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1663-detect-cycles-in-2d-grid) |
