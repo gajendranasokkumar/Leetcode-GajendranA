@@ -43,6 +43,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0337-house-robber-iii) |
+| [0386-lexicographical-numbers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -690,6 +691,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0212-word-search-ii) |
+| [0386-lexicographical-numbers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1397-search-suggestions-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1397-search-suggestions-system) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
