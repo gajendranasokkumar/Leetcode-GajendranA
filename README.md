@@ -345,6 +345,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0690-employee-importance](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0690-employee-importance) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0740-delete-and-earn) |
