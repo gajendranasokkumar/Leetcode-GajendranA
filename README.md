@@ -453,6 +453,7 @@
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3819-count-covered-buildings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3819-count-covered-buildings) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Bit Manipulation
