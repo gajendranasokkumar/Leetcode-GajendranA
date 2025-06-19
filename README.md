@@ -410,6 +410,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2428-equal-row-and-column-pairs) |
@@ -629,6 +630,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2379-maximum-total-importance-of-roads](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2379-maximum-total-importance-of-roads) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -939,6 +941,7 @@
 | [1891-count-pairs-of-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1891-count-pairs-of-nodes) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2379-maximum-total-importance-of-roads](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2379-maximum-total-importance-of-roads) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2590-maximum-star-sum-of-a-graph) |
