@@ -247,6 +247,7 @@
 | [3194-find-words-containing-character](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3194-find-words-containing-character) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3447-clear-digits) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -642,6 +643,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Hash Table
 |  |
@@ -699,6 +701,7 @@
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3227-find-missing-and-repeated-values) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -953,6 +956,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3430-count-days-without-meetings) |
 | [3819-count-covered-buildings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3819-count-covered-buildings) |
 ## Queue
@@ -1000,6 +1004,7 @@
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Data Stream
