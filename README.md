@@ -385,6 +385,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1524-string-matching-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1656-count-good-triplets) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1706-min-cost-to-connect-all-points) |
@@ -546,6 +547,7 @@
 | [0287-find-the-duplicate-number](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0768-partition-labels) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1891-count-pairs-of-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1891-count-pairs-of-nodes) |
 | [1894-merge-strings-alternately](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1894-merge-strings-alternately) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -568,6 +570,7 @@
 | [1249-snapshot-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1249-snapshot-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1397-search-suggestions-system) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1891-count-pairs-of-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1891-count-pairs-of-nodes) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -947,6 +950,7 @@
 | [1222-remove-covered-intervals](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1222-remove-covered-intervals) |
 | [1308-smallest-string-with-swaps](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1308-smallest-string-with-swaps) |
 | [1397-search-suggestions-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1397-search-suggestions-system) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1748-best-team-with-no-conflicts](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1748-best-team-with-no-conflicts) |
 | [1777-determine-if-two-strings-are-close](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1891-count-pairs-of-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1891-count-pairs-of-nodes) |
