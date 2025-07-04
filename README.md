@@ -489,6 +489,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2792-neighboring-bitwise-xor) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -534,6 +535,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -621,6 +623,7 @@
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3227-find-missing-and-repeated-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Greedy
