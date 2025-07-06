@@ -402,6 +402,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2035-count-sub-islands](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2048-build-array-from-permutation) |
@@ -698,6 +699,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2104-operations-on-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2107-find-unique-binary-string) |
@@ -775,6 +777,7 @@
 | [1249-snapshot-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1249-snapshot-array) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1477-product-of-the-last-k-numbers) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2104-operations-on-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2104-operations-on-tree) |
 | [2413-smallest-number-in-infinite-set](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2434-design-a-number-container-system) |
