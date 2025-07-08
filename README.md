@@ -302,6 +302,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1748-best-team-with-no-conflicts](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1748-best-team-with-no-conflicts) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2262-solving-questions-with-brainpower) |
@@ -395,6 +396,7 @@
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1891-count-pairs-of-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1891-count-pairs-of-nodes) |
@@ -578,6 +580,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1397-search-suggestions-system) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1891-count-pairs-of-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1891-count-pairs-of-nodes) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -966,6 +969,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1748-best-team-with-no-conflicts](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1748-best-team-with-no-conflicts) |
 | [1777-determine-if-two-strings-are-close](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1777-determine-if-two-strings-are-close) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1891-count-pairs-of-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1891-count-pairs-of-nodes) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2379-maximum-total-importance-of-roads](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2379-maximum-total-importance-of-roads) |
