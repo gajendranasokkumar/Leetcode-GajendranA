@@ -430,6 +430,7 @@
 | [2472-build-a-matrix-with-conditions](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2472-build-a-matrix-with-conditions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2478-longest-nice-subarray) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2551-apply-operations-to-an-array) |
@@ -563,6 +564,7 @@
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -656,6 +658,7 @@
 | [2379-maximum-total-importance-of-roads](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2379-maximum-total-importance-of-roads) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2590-maximum-star-sum-of-a-graph) |
@@ -980,6 +983,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2636-maximum-subsequence-score](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2681-put-marbles-in-bags) |
