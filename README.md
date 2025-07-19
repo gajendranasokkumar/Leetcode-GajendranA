@@ -67,6 +67,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1300-critical-connections-in-a-network](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1300-critical-connections-in-a-network) |
 | [1308-smallest-string-with-swaps](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1308-smallest-string-with-swaps) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1396-count-servers-that-communicate) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -219,6 +220,7 @@
 | [1170-shortest-common-supersequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1250-longest-common-subsequence) |
 | [1308-smallest-string-with-swaps](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1308-smallest-string-with-swaps) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1397-search-suggestions-system) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1502-construct-k-palindrome-strings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1502-construct-k-palindrome-strings) |
@@ -378,6 +380,7 @@
 | [1249-snapshot-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1249-snapshot-array) |
 | [1308-smallest-string-with-swaps](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1308-smallest-string-with-swaps) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1364-tuple-with-same-product) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1396-count-servers-that-communicate) |
@@ -748,6 +751,7 @@
 | [0386-lexicographical-numbers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1397-search-suggestions-system) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
