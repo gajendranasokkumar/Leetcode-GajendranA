@@ -1,22 +1,19 @@
 class Solution {
     public String makeFancyString(String s) {
         int n = s.length();
-        if(n < 3)
+        if (n < 3)
             return s;
-        int stri = 0;
-        int i = 0;
+
         StringBuilder str = new StringBuilder();
-        while(i < n) {
+        for (int i = 0; i < n; i++) {
             char ch = s.charAt(i);
-            if(stri-1 >= 0 && stri-2 >= 0 && str.charAt(stri-1) == str.charAt(stri-2) && str.charAt(stri-2) == ch) {
-                i++;
+            int len = str.length();
+            if (len >= 2 && str.charAt(len - 1) == ch && str.charAt(len - 2) == ch) {
                 continue;
-            } else {
-                str.append(ch);
-                i++;
-                stri++;
             }
+            str.append(ch);
         }
         return str.toString();
     }
 }
+
