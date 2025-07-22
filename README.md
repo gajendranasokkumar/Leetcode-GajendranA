@@ -400,6 +400,7 @@
 | [1663-detect-cycles-in-2d-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1706-min-cost-to-connect-all-points) |
 | [1748-best-team-with-no-conflicts](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1748-best-team-with-no-conflicts) |
+| [1813-maximum-erasure-value](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -714,6 +715,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1777-determine-if-two-strings-are-close) |
+| [1813-maximum-erasure-value](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -775,6 +777,7 @@
 | [0413-arithmetic-slices](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0643-maximum-average-subarray-i) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1813-maximum-erasure-value](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1813-maximum-erasure-value) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2478-longest-nice-subarray) |
