@@ -11,6 +11,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0337-house-robber-iii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0437-path-sum-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0690-employee-importance](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0690-employee-importance) |
@@ -46,6 +47,7 @@
 | [0386-lexicographical-numbers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0437-path-sum-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0684-redundant-connection) |
@@ -164,6 +166,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0337-house-robber-iii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0437-path-sum-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1116,6 +1119,7 @@
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0096-unique-binary-search-trees) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Biconnected Component
 |  |
 | ------- |
