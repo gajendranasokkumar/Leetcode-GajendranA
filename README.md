@@ -493,6 +493,7 @@
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3791-fruits-into-baskets-iii) |
 | [3819-count-covered-buildings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3819-count-covered-buildings) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Bit Manipulation
@@ -622,6 +623,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3790-fruits-into-baskets-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3791-fruits-into-baskets-iii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
@@ -989,6 +991,7 @@
 | [2413-smallest-number-in-infinite-set](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2434-design-a-number-container-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3791-fruits-into-baskets-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1180,6 +1183,7 @@
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0307-range-sum-query-mutable) |
 | [3790-fruits-into-baskets-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3791-fruits-into-baskets-iii) |
 ## Database
 |  |
 | ------- |
