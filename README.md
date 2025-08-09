@@ -503,6 +503,7 @@
 | [0089-gray-code](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0795-k-th-symbol-in-grammar](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0795-k-th-symbol-in-grammar) |
@@ -565,6 +566,7 @@
 | [0010-regular-expression-matching](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0024-swap-nodes-in-pairs) |
 | [0224-basic-calculator](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0394-decode-string) |
 | [0795-k-th-symbol-in-grammar](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -635,6 +637,7 @@
 | [0149-max-points-on-a-line](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0368-largest-divisible-subset) |
