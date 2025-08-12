@@ -316,6 +316,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2262-solving-questions-with-brainpower) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
