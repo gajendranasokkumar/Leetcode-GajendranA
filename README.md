@@ -297,6 +297,7 @@
 | [0740-delete-and-earn](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0806-domino-and-tromino-tiling) |
+| [0867-new-21-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0867-new-21-game) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1025-minimum-cost-for-tickets) |
@@ -652,6 +653,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0670-maximum-swap](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0670-maximum-swap) |
 | [0795-k-th-symbol-in-grammar](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0795-k-th-symbol-in-grammar) |
+| [0867-new-21-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0867-new-21-game) |
 | [1014-k-closest-points-to-origin](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1289-day-of-the-week](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1289-day-of-the-week) |
@@ -815,6 +817,7 @@
 | [0076-minimum-window-substring](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0076-minimum-window-substring) |
 | [0413-arithmetic-slices](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0643-maximum-average-subarray-i) |
+| [0867-new-21-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1813-maximum-erasure-value) |
@@ -1212,4 +1215,8 @@
 | [2202-sum-of-k-mirror-numbers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2998-count-symmetric-integers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2998-count-symmetric-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
