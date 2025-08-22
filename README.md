@@ -491,6 +491,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3430-count-days-without-meetings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -890,6 +891,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3227-find-missing-and-repeated-values) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Graph
 |  |
 | ------- |
