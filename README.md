@@ -359,6 +359,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0643-maximum-average-subarray-i) |
@@ -866,6 +867,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0498-diagonal-traverse](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0945-snakes-and-ladders) |
@@ -941,6 +943,7 @@
 | [0067-add-binary](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0498-diagonal-traverse) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2048-build-array-from-permutation) |
