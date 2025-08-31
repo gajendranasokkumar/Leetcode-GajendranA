@@ -329,6 +329,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0037-sudoku-solver) |
 | [0068-text-justification](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -730,6 +731,7 @@
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0133-clone-graph) |
@@ -863,6 +865,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0289-game-of-life) |
@@ -971,6 +974,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0037-sudoku-solver) |
 | [0077-combinations](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0089-gray-code) |
