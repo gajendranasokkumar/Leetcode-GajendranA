@@ -489,6 +489,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -685,6 +686,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3227-find-missing-and-repeated-values) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -1075,6 +1077,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3430-count-days-without-meetings) |
 | [3748-sort-matrix-by-diagonals](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3748-sort-matrix-by-diagonals) |
@@ -1091,6 +1094,7 @@
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0149-max-points-on-a-line) |
 | [1014-k-closest-points-to-origin](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1014-k-closest-points-to-origin) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -1235,6 +1239,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2998-count-symmetric-integers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2998-count-symmetric-integers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Probability and Statistics
 |  |
