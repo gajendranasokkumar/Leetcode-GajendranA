@@ -223,6 +223,7 @@
 | [1160-letter-tile-possibilities](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -773,6 +774,7 @@
 | [1160-letter-tile-possibilities](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1249-snapshot-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1249-snapshot-array) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1308-smallest-string-with-swaps](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1308-smallest-string-with-swaps) |
 | [1364-tuple-with-same-product](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
