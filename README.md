@@ -519,6 +519,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3791-fruits-into-baskets-iii) |
 | [3819-count-covered-buildings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3819-count-covered-buildings) |
+| [3827-implement-router](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3827-implement-router) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Bit Manipulation
 |  |
@@ -652,6 +653,7 @@
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3790-fruits-into-baskets-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3827-implement-router) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
@@ -819,6 +821,7 @@
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3819-count-covered-buildings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3819-count-covered-buildings) |
+| [3827-implement-router](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
@@ -881,6 +884,7 @@
 | [2413-smallest-number-in-infinite-set](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2434-design-a-number-container-system) |
+| [3827-implement-router](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3827-implement-router) |
 ## Randomized
 |  |
 | ------- |
@@ -1049,6 +1053,7 @@
 | [2434-design-a-number-container-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2434-design-a-number-container-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3827-implement-router) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1114,6 +1119,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3827-implement-router) |
 ## Geometry
 |  |
 | ------- |
