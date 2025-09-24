@@ -200,6 +200,7 @@
 | [0131-palindrome-partitioning](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0212-word-search-ii) |
@@ -666,6 +667,7 @@
 | [0096-unique-binary-search-trees](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0224-basic-calculator](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0279-perfect-squares) |
@@ -760,6 +762,7 @@
 | [0139-word-break](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
