@@ -384,6 +384,7 @@
 | [0740-delete-and-earn](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0794-swim-in-rising-water) |
+| [0830-largest-triangle-area](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0830-largest-triangle-area) |
 | [0833-bus-routes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0854-making-a-large-island) |
 | [0878-shifting-letters](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0878-shifting-letters) |
@@ -684,6 +685,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0670-maximum-swap](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0670-maximum-swap) |
 | [0795-k-th-symbol-in-grammar](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0795-k-th-symbol-in-grammar) |
+| [0830-largest-triangle-area](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0867-new-21-game) |
 | [1014-k-closest-points-to-origin](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -1136,6 +1138,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0149-max-points-on-a-line) |
+| [0830-largest-triangle-area](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1014-k-closest-points-to-origin) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Quickselect
