@@ -337,6 +337,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0037-sudoku-solver) |
 | [0068-text-justification](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0068-text-justification) |
@@ -617,6 +618,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0011-container-with-most-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0141-linked-list-cycle) |
@@ -723,6 +725,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0334-increasing-triplet-subsequence) |
