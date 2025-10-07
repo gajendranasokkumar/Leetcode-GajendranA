@@ -424,6 +424,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1524-string-matching-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1612-avoid-flood-in-the-city](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1656-count-good-triplets) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -652,6 +653,7 @@
 | [1249-snapshot-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1249-snapshot-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1397-search-suggestions-system) |
+| [1612-avoid-flood-in-the-city](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1891-count-pairs-of-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1891-count-pairs-of-nodes) |
@@ -743,6 +745,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1612-avoid-flood-in-the-city](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1612-avoid-flood-in-the-city) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1917-maximum-average-pass-ratio) |
@@ -804,6 +807,7 @@
 | [1500-count-largest-group](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1612-avoid-flood-in-the-city) |
 | [1777-determine-if-two-strings-are-close](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1813-maximum-erasure-value](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -1053,6 +1057,7 @@
 | [1397-search-suggestions-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1612-avoid-flood-in-the-city](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1917-maximum-average-pass-ratio) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2379-maximum-total-importance-of-roads) |
