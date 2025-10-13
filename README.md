@@ -229,6 +229,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1397-search-suggestions-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1397-search-suggestions-system) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1502-construct-k-palindrome-strings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1502-construct-k-palindrome-strings) |
@@ -410,6 +411,7 @@
 | [1308-smallest-string-with-swaps](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1308-smallest-string-with-swaps) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1364-tuple-with-same-product) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1396-count-servers-that-communicate) |
@@ -803,6 +805,7 @@
 | [1249-snapshot-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1249-snapshot-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1308-smallest-string-with-swaps](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1308-smallest-string-with-swaps) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1500-count-largest-group](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1500-count-largest-group) |
@@ -1115,6 +1118,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1014-k-closest-points-to-origin) |
 | [1222-remove-covered-intervals](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1222-remove-covered-intervals) |
 | [1308-smallest-string-with-swaps](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1308-smallest-string-with-swaps) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1397-search-suggestions-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
