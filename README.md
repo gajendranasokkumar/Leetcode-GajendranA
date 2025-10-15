@@ -522,6 +522,7 @@
 | [3483-alternating-groups-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -668,6 +669,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 | [3790-fruits-into-baskets-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3791-fruits-into-baskets-iii) |
