@@ -524,6 +524,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -775,6 +776,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
@@ -1150,6 +1152,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3430-count-days-without-meetings) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3748-sort-matrix-by-diagonals) |
 | [3819-count-covered-buildings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3819-count-covered-buildings) |
 ## Queue
