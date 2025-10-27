@@ -247,6 +247,7 @@
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -460,6 +461,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2262-solving-questions-with-brainpower](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2262-solving-questions-with-brainpower) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -717,6 +719,7 @@
 | [2050-count-good-numbers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2610-closest-prime-numbers-in-range) |
@@ -957,6 +960,7 @@
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2145-grid-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2428-equal-row-and-column-pairs) |
