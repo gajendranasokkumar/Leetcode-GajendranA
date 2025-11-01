@@ -525,6 +525,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -585,6 +586,7 @@
 | [0141-linked-list-cycle](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0141-linked-list-cycle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
 | ------- |
@@ -861,6 +863,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
