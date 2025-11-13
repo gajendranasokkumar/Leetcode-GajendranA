@@ -271,6 +271,7 @@
 | [3396-valid-word](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3447-clear-digits) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3617-find-the-original-typed-string-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3617-find-the-original-typed-string-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -798,6 +799,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
@@ -1244,6 +1246,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
