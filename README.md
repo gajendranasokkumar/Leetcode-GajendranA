@@ -592,6 +592,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0146-lru-cache) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -810,6 +811,7 @@
 | [0133-clone-graph](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0208-implement-trie-prefix-tree) |
@@ -931,6 +933,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0307-range-sum-query-mutable](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0307-range-sum-query-mutable) |
@@ -1360,4 +1363,8 @@
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0867-new-21-game) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
