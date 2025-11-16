@@ -238,6 +238,7 @@
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1777-determine-if-two-strings-are-close](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -729,6 +730,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1951-find-the-winner-of-the-circular-game) |
