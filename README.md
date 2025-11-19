@@ -472,6 +472,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2262-solving-questions-with-brainpower](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2262-solving-questions-with-brainpower) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -862,6 +863,7 @@
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2169-simple-bank-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2169-simple-bank-system) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2413-smallest-number-in-infinite-set](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2428-equal-row-and-column-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2429-design-a-food-rating-system) |
@@ -1061,6 +1063,7 @@
 | [2048-build-array-from-permutation](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2048-build-array-from-permutation) |
 | [2169-simple-bank-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -1184,6 +1187,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1891-count-pairs-of-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1891-count-pairs-of-nodes) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2379-maximum-total-importance-of-roads](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2379-maximum-total-importance-of-roads) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2392-successful-pairs-of-spells-and-potions) |
