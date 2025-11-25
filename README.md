@@ -724,6 +724,7 @@
 | [0830-largest-triangle-area](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0867-new-21-game) |
 | [1014-k-closest-points-to-origin](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1014-k-closest-points-to-origin) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1289-day-of-the-week](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1289-day-of-the-week) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -837,6 +838,7 @@
 | [0952-word-subsets](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0952-word-subsets) |
 | [0960-minimize-malware-spread](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0960-minimize-malware-spread) |
 | [1006-vowel-spellchecker](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1023-time-based-key-value-store) |
 | [1160-letter-tile-possibilities](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1160-letter-tile-possibilities) |
