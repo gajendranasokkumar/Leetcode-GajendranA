@@ -533,6 +533,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3430-count-days-without-meetings](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3430-count-days-without-meetings) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -755,6 +756,7 @@
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3227-find-missing-and-repeated-values) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -1164,6 +1166,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2529-range-product-queries-of-powers) |
 | [2625-increment-submatrices-by-one](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3639-zero-array-transformation-i) |
