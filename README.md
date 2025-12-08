@@ -737,6 +737,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1925-count-square-sum-triples](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2050-count-good-numbers) |
@@ -1373,6 +1374,7 @@
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1656-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2202-sum-of-k-mirror-numbers) |
