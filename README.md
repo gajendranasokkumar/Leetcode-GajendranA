@@ -520,6 +520,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3074-apple-redistribution-into-boxes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3194-find-words-containing-character](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -808,6 +809,7 @@
 | [2689-rearranging-fruits](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3074-apple-redistribution-into-boxes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -1208,6 +1210,7 @@
 | [2689-rearranging-fruits](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3074-apple-redistribution-into-boxes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
