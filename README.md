@@ -551,6 +551,7 @@
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3719-longest-balanced-subarray-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3719-longest-balanced-subarray-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -898,6 +899,7 @@
 | [3606-coupon-code-validator](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3606-coupon-code-validator) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3719-longest-balanced-subarray-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -1095,6 +1097,7 @@
 | [0190-reverse-bits](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0190-reverse-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1014-k-closest-points-to-origin](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1014-k-closest-points-to-origin) |
+| [3719-longest-balanced-subarray-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3719-longest-balanced-subarray-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -1176,6 +1179,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3639-zero-array-transformation-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3719-longest-balanced-subarray-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Sorting
 |  |
@@ -1365,6 +1369,7 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0307-range-sum-query-mutable) |
+| [3719-longest-balanced-subarray-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3791-fruits-into-baskets-iii) |
 ## Database
