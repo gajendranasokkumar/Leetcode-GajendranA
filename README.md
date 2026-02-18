@@ -573,6 +573,7 @@
 | [0231-power-of-two](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0693-binary-number-with-alternating-bits](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0795-k-th-symbol-in-grammar) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1022-unique-paths-iii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1022-unique-paths-iii) |
