@@ -740,6 +740,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1622-fancy-sequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -968,6 +969,7 @@
 | [1249-snapshot-array](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1249-snapshot-array) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1477-product-of-the-last-k-numbers) |
+| [1622-fancy-sequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2104-operations-on-tree](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2104-operations-on-tree) |
 | [2169-simple-bank-system](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/2169-simple-bank-system) |
@@ -1373,6 +1375,7 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/0307-range-sum-query-mutable) |
+| [1622-fancy-sequence](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/gajendranasokkumar/Leetcode-GajendranA/tree/master/3791-fruits-into-baskets-iii) |
